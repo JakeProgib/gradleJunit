@@ -1,1 +1,1 @@
-# gradle_junit
+# gradleJunit
